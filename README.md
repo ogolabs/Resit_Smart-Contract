@@ -78,14 +78,14 @@ forge script scripts/SellerPadiShipment.s.sol:SellerPadiShipmentScript --rpc-url
 
 ### Electroneum Mainnet (Chain ID `52014`)
 
-- **SellerPadiReceipt (Digital Receipts) Proxy Address:** `0x8c82AAceD93B10FF9Bac51D67F54b01f54D7E4D6` (Verified)
-- **SellerPadiReceipt Implementation:** `0x62F44CCef287476D4a343A92B00AC383e093f7C1` (Verified)
-- **SellerPadiShipment (Delivery Verification) Proxy Address:** `0x4a8c44A709c83510D9236D672121bf3a0ca4Da3b` (Verified)
-- **SellerPadiShipment Implementation:** `0x9a0fd40e4696Ba3aB72a2fB29e3836122d20E949` (Verified)
+- **SellerPadiReceipt (Digital Receipts) Proxy Address:** `` ()
+- **SellerPadiReceipt Implementation:** `0x62F44CCef287476D4a343A92B00AC383e093f7C1` ()
+- **SellerPadiShipment (Delivery Verification) Proxy Address:** `0x4a8c44A709c83510D9236D672121bf3a0ca4Da3b` ()
+- **SellerPadiShipment Implementation:** `0x9a0fd40e4696Ba3aB72a2fB29e3836122d20E949` ()
 
 ### Electroneum Testnet (Chain ID `5201420`)
 
-- **SellerPadiReceipt (Digital Receipts) Proxy Address:** `0xdEd6b556A0f431CCd7085788f9adE5D5D442BcFE`
-- **SellerPadiReceipt Implementation:** `0x24D810C8fDAeFba69a89347857DC794F67F8F440`
-- **SellerPadiShipment (Delivery Verification) Proxy Address:** `0xFa332d7B5208f7f175EadB784618Ba0390262b7e`
-- **SellerPadiShipment Implementation:** `0x6170f8bB1317232980448eE150d158bB6cC49301`
+- **SellerPadiReceipt (Digital Receipts) Proxy Address:** `0x969531328beE295E5FfCeE76e89cB9f97BC2dEfc` (Verified)
+- **SellerPadiReceipt Implementation:** `0x6fca06E932852B9Af20d6c86F4c6d565E7627367` (Verified)
+- **SellerPadiShipment (Delivery Verification) Proxy Address:** `0xA269D9d237d2D4f856ED9d76241f14452f0BA9D2` (Verified)
+- **SellerPadiShipment Implementation:** `0xeB16Eec148146f717efCB659A109d5F8B19447Ae` (Verified)

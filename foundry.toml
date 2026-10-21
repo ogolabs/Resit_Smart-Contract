@@ -7,8 +7,8 @@ optimizer = true
 optimizer_runs = 200
 
 [rpc_endpoints]
-electroneum-testnet = "https://rpc.ankr.com/electroneum_testnet/${ANKR_API_KEY}"
-electroneum = "https://rpc.ankr.com/electroneum/${ANKR_API_KEY}"
+electroneum-testnet = "https://rpc.ankr.com/electroneum_testnet"
+electroneum = "https://rpc.ankr.com/electroneum"
  
 [etherscan]
 5201420 = { key = "empty", url = "https://testnet-blockexplorer.electroneum.com/api", verifier = "blockscout" }
